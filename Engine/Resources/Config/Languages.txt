@@ -119,6 +119,22 @@ Language: PHP
    Function Prototype Enders: ; {
    Variable Prototype Enders: ; =
 
+Language: Purebasic
+
+   Extensions: pb pbi
+
+   Simple Identifier: PB
+
+   Line Comment: ;
+   Block Comment: ;{ ;}
+   Line Extender: , |
+   Enum Values: Under Type
+   Case Sensitive: No
+
+   Class Prototype Ender: \n
+   Interface Prototype Ender: \n
+   Function Prototype Ender: \n
+   Variable Prototype Ender: \n
 
 Language: SQL
 
